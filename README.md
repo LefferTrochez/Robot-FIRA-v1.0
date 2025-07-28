@@ -130,6 +130,7 @@ Then select: **AI THINKER ESP32 CAM**
   <img src="microROSagent.png" alt="micro-ROS Agent Diagram" width="600">
 </p>
 
+micro-ROS brings the capabilities of ROS 2 to microcontrollers like the ESP32. It allows them to communicate with other ROS 2 nodes through a micro-ROS Agent, which acts as a bridge between the microcontroller and the ROS 2 network. Data is exchanged over serial, UDP, or other supported transports, enabling real-time sensor data publishing and command reception on resource-constrained devices.
 ---
 
 ## micro-ROS Installation Instructions (Ubuntu 22.04, ROS 2 Humble)
@@ -214,7 +215,7 @@ ros2 run robot_fira teleop.py
 ## Copyright Notice
 
 © 2025 Leffer Trochez. All rights reserved.  
-Redistribution or modification without permission is not allowed.
+This repository is publicly available for educational and consultation purposes only. Any reproduction, redistribution, modification, or commercial use of the content, in whole or in part, is strictly prohibited without explicit written permission from the author.
 
-Contact: l.trochez@uniandes.edu.co
+For inquiries or permissions, please contact: l.trochez@uniandes.edu.co
 
