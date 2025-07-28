@@ -209,27 +209,3 @@ ros2 run robot_fira teleop.py
 
 ---
 
-## Acknowledgements
-
-- Universidad de los Andes
-- AIA Laboratory
-- Community of micro-ROS and Arduino
-
----
-
-## References
-
-1. YSR-A User Manual  
-2. SDC-310 CCD Camera Manual  
-3. [micro-ROS Official Website](https://micro.ros.org)  
-4. [ESP32 Arduino IDE Setup](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)  
-5. [Dabble App Docs](https://thestempedia.com/docs/dabble/introduction/)  
-
----
-
-## Copyright Notice
-
-© 2025 Leffer Trochez. All rights reserved.  
-Redistribution or modification without permission is not allowed.
-
-Contact: l.trochez@uniandes.edu.co
