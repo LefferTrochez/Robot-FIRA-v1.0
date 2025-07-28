@@ -197,7 +197,7 @@ ros2 run robot_fira teleop.py
 ## Technologies Used
 
 <p align="center">
-  <img src="https://micro.ros.org/static/media/logo-micro-ros.6aa1f30d.svg" width="100">
+  <img src="[https://micro.ros.org/static/media/logo-micro-ros.6aa1f30d.svg" width="100](https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png" alt="ROS2 Logo" width="100" style="vertical-align: -50px)">
   <img src="https://img.icons8.com/color/48/arduino.png" width="50">
   <img src="https://img.icons8.com/color/48/python.png" width="50">
   <img src="https://img.icons8.com/color/48/esp32.png" width="50">
@@ -210,4 +210,11 @@ ros2 run robot_fira teleop.py
 📺 [Support video tutorial - OneDrive](https://1drv.ms/v/c/bbff4df3d4a71f59/EaiGXuramTVJjmTzD2OHNhMB1i05BiB5UKKjjw56KOtR_w?e=c3pjqZ)
 
 ---
+
+## Copyright Notice
+
+© 2025 Leffer Trochez. All rights reserved.  
+Redistribution or modification without permission is not allowed.
+
+Contact: l.trochez@uniandes.edu.co
 
