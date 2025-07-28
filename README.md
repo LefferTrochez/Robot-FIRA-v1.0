@@ -197,11 +197,12 @@ ros2 run robot_fira teleop.py
 ## Technologies Used
 
 <p align="center">
-  <img src="[https://micro.ros.org/static/media/logo-micro-ros.6aa1f30d.svg" width="100](https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png" alt="ROS2 Logo" width="100" style="vertical-align: -50px)">
+  <img src="https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png" alt="ROS2 Logo" width="100" style="vertical-align: -50px"> 
   <img src="https://img.icons8.com/color/48/arduino.png" width="50">
   <img src="https://img.icons8.com/color/48/python.png" width="50">
   <img src="https://img.icons8.com/color/48/esp32.png" width="50">
 </p>
+
 
 ---
 
