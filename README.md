@@ -129,7 +129,6 @@ Then select: **AI THINKER ESP32 CAM**
 <p align="center">
   <img src="microROSagent.png" alt="micro-ROS Agent Diagram" width="600">
 </p>
-
 micro-ROS brings the capabilities of ROS 2 to microcontrollers like the ESP32. It allows them to communicate with other ROS 2 nodes through a micro-ROS Agent, which acts as a bridge between the microcontroller and the ROS 2 network. Data is exchanged over serial, UDP, or other supported transports, enabling real-time sensor data publishing and command reception on resource-constrained devices.
 ---
 
