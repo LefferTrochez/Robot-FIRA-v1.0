@@ -50,7 +50,6 @@ This repository documents the electronic update of the legacy YSR-A (5vs5 Ver128
 ## Hardware Components
 
 - ESP32 and ESP32-CAM
-- LD19 LiDAR
 - 4x VL53L0X (with I2C multiplexer)
 - INA219 (voltage/current sensor)
 - MPU6050 (IMU)
@@ -73,20 +72,25 @@ This repository documents the electronic update of the legacy YSR-A (5vs5 Ver128
 
 ## Improvements
 
-- ROS 2 integration with micro-ROS (UDP4)
-- Video streaming via ESP32-CAM
-- Modular perfboard layout
-- Power filtering and voltage regulation
-- LED and buzzer indicators for feedback
+- ESP32 + ESP32-CAM (Wi-Fi + Bluetooth)
+- ESP32-CAM (OV2640) camera
+- TB6612FNG dual H-bridge motor drivers
+- 2 × Faulhaber 2224U006SR motors
+- 7.4V Li-ion (2S AAA) battery
+- Added MPU6050, VL53L0X, LiDAR, INA219
+- Wi-Fi (ROS 2) + Bluetooth (Dabble App)
+- 3 LEDs (Reset, BT, Wi-Fi) + buzzer
+- Multiple I2C, UART, PWM ports available
 
 ---
 
 ## Future Work
 
-- Full teleoperation interface
-- SLAM integration
-- Add OTA support for firmware update
-- Autonomous behavior layer
+- Integrate and test LD19 LiDAR with ROS 2.
+- Conduct final performance evaluation in real scenarios.
+- Design and manufacture custom PCB.
+- Develop advanced software (SLAM and autonomous navigation).
+- Publish documentation and open-source all resources.
 
 ---
 
