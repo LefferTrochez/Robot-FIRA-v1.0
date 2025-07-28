@@ -24,9 +24,7 @@
 8. [micro-ROS Architecture](#micro-ros-architecture)
 9. [Technologies Used](#technologies-used)
 10. [Support Video](#support-video)
-11. [Acknowledgements](#acknowledgements)
-12. [References](#references)
-13. [Copyright Notice](#copyright-notice)
+11. [Copyright Notice](#copyright-notice)
 
 ---
 
