@@ -200,7 +200,6 @@ ros2 run robot_fira teleop.py
   <img src="https://roboticsbackend.com/wp-content/uploads/2022/04/ros_logo.png" alt="ROS2 Logo" width="100" style="vertical-align: -50px"> 
   <img src="https://img.icons8.com/color/48/arduino.png" width="50">
   <img src="https://img.icons8.com/color/48/python.png" width="50">
-  <img src="https://img.icons8.com/color/48/esp32.png" width="50">
 </p>
 
 
