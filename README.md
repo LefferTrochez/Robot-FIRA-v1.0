@@ -2,7 +2,7 @@
 # Electronic Upgrade for FIRA Robot
 
 <p align="center">
-  <img src="Electronic Update v1.0.jpg" alt="YSR-A Updated Robot" width="400">
+  <img src="Electronic Update v1.0.jpg" alt="YSR-A Updated Robot" width="600">
 </p>
 
 ![Build Status](https://img.shields.io/badge/build-stable-green)
